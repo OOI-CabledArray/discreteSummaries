@@ -1,0 +1,90 @@
+Chlorophyll Analyses,,,,,,
+,,Units Required,ug/L,,,
+,,,,,,
+Customer and Data Recipient,Wendi Ruef,,,,,
+Email,wruef@uw.edu,,,,,
+Office,206-221-6760,,,,,
+,,,,,,
+Budget,63-2089,Budget Contact,Laurie Bryan,,,
+PI,D. Kelley,,lbryan@ocean.washington.edu,,,
+,,,Office: 206-542-5279,,,
+Total Samples,61,,,,,
+,,,,,,
+,,,,,,
+CTD Station,CTD ID,Niskin Bottle Number,Target Depth (m),Sample Bottle Number,Volume Filtered (L),Extraction Volume (L)
+,,,,,,
+Slope Base Junction Box LJ01A,2201_ctd_dive_export.csv,Aft Port,2900,1044,500,10
+,,,,,,
+Axial Base Shallow Profiler,2204_ctd_dive_export.csv,Aft Port,198,1036,500,10
+,,,,,,
+Axial Base Shallow Profiler,TN407_CTD-001,3,200,1037,500,10
+Axial Base Shallow Profiler,TN407_CTD-001,7,160,1038,500,10
+Axial Base Shallow Profiler,TN407_CTD-001,13,100,1039,500,10
+Axial Base Shallow Profiler,TN407_CTD-001,15,80,1040,500,10
+Axial Base Shallow Profiler,TN407_CTD-001,17,60,1041,500,10
+Axial Base Shallow Profiler,TN407_CTD-001,19,40,1042,500,10
+Axial Base Shallow Profiler,TN407_CTD-001,22,20,1043,500,10
+Axial Base Shallow Profiler,TN407_CTD-001,23,10,1045,500,10
+,,,,,,
+Oregon Shelf BEP,2218_ctd_dive_export.csv,Aft Port,80,1046,500,10
+,,,,,,
+Oregon Offshore BEP,2220_ctd_dive_export.csv,Forward Port,600,1047,500,10
+,,,,,,
+Southern Hydrate Ridge,TN407_CTD-002,1,770,1048,500,10
+,,,,,,
+Slope Base Shallow Profiler,TN407_CTD-003,1,2900,1049,500,10
+Slope Base Shallow Profiler,TN407_CTD-003,7,2000,1050,500,10
+Slope Base Shallow Profiler,TN407_CTD-003,11,1000,1051,500,10
+Slope Base Shallow Profiler,TN407_CTD-003,15,250,1052,500,10
+Slope Base Shallow Profiler,TN407_CTD-003,22,30,1053,500,10
+Slope Base Shallow Profiler,TN407_CTD-003,23,10,1054,500,10
+,,,,,,
+Oregon Offshore Shallow Profiler,TN407_CTD-004,1,565,1055,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-004,7,400,1056,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-004,11,250,1057,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-004,15,150,1058,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-004,21,20,1059,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-004,23,10,1060,500,10
+,,,,,,
+Oregon Offshore Deep Profiler,TN407_CTD-005,1,578,1074,500,10
+Oregon Offshore Deep Profiler,TN407_CTD-005,7,400,1075,500,10
+Oregon Offshore Deep Profiler,TN407_CTD-005,11,250,1076,500,10
+Oregon Offshore Deep Profiler,TN407_CTD-005,15,150,1077,500,10
+Oregon Offshore Deep Profiler,TN407_CTD-005,21,20,1078,500,10
+Oregon Offshore Deep Profiler,TN407_CTD-005,23,10,1079,500,10
+,,,,,,
+Slope Base Deep Profiler,TN407_CTD-006,1,2895,1068,500,10
+Slope Base Deep Profiler,TN407_CTD-006,7,2000,1069,500,10
+Slope Base Deep Profiler,TN407_CTD-006,11,1000,1070,500,10
+Slope Base Deep Profiler,TN407_CTD-006,15,250,1071,500,10
+Slope Base Deep Profiler,TN407_CTD-006,21,30,1072,500,10
+Slope Base Deep Profiler,TN407_CTD-006,23,10,1073,500,10
+,,,,,,
+Axial Base Deep Profiler,TN407_CTD-007,1,2600,1062,500,10
+Axial Base Deep Profiler,TN407_CTD-007,7,2000,1063,500,10
+Axial Base Deep Profiler,TN407_CTD-007,11,1000,1064,500,10
+Axial Base Deep Profiler,TN407_CTD-007,15,250,1065,500,10
+Axial Base Deep Profiler,TN407_CTD-007,21,30,1066,500,10
+Axial Base Deep Profiler,TN407_CTD-007,23,10,1067,500,10
+,,,,,,
+Axial Base Junction Box LJ03A,2238_ctd_dive_export.csv,Aft Port,2604,1061,500,10
+,,,,,,
+Axial Central Caldera,2242_ctd_dive_export.csv,Aft Port,1525,1081,500,10
+,,,,,,
+Oregon Offshore Shallow Profiler,TN407_CTD-008,3,200,1082,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-008,7,160,1083,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-008,13,100,1084,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-008,15,80,1085,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-008,17,60,1086,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-008,19,40,1087,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-008,21,20,1088,500,10
+Oregon Offshore Shallow Profiler,TN407_CTD-008,23,10,1089,500,10
+,,,,,,
+Slope Base Shallow Profiler,TN407_CTD-009,3,200,1091,500,10
+Slope Base Shallow Profiler,TN407_CTD-009,7,160,1092,500,10
+Slope Base Shallow Profiler,TN407_CTD-009,13,100,1093,500,10
+Slope Base Shallow Profiler,TN407_CTD-009,15,80,1094,500,10
+Slope Base Shallow Profiler,TN407_CTD-009,17,60,1095,500,10
+Slope Base Shallow Profiler,TN407_CTD-009,19,40,1096,500,10
+Slope Base Shallow Profiler,TN407_CTD-009,21,20,1097,500,10
+Slope Base Shallow Profiler,TN407_CTD-009,23,10,1098,500,10

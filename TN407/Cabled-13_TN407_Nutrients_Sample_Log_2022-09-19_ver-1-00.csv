@@ -1,0 +1,89 @@
+Nutrient Analyses,,,,
+,,Units Required,uM,
+,,,,
+Customer and Data Recipient,Wendi Ruef,,,
+Email,wruef@uw.edu,,,
+Office,206-221-6760,,,
+,,,,
+Budget,63-2089,Budget Contact,Laurie Bryan,
+PI,D. Kelley,,lbryan@ocean.washington.edu,
+,,,Office: 206-542-5279,
+Total Samples,66,,,
+,,,,
+,,,,
+CTD Station,CTD ID,Niskin Bottle Number,Target Depth (m),Sample Bottle Number
+,,,,
+Axial Base Shallow Profiler,2204_ctd_dive_export.csv,Aft Port,198,NUT-1344
+,,,,
+Axial Base Shallow Profiler,TN407_CTD-001,1,220,NUT-1343
+Axial Base Shallow Profiler,TN407_CTD-001,1,220,NUT-1342
+Axial Base Shallow Profiler,TN407_CTD-001,5,180,NUT-1341
+Axial Base Shallow Profiler,TN407_CTD-001,7,160,NUT-1340
+Axial Base Shallow Profiler,TN407_CTD-001,10,140,NUT-1339
+Axial Base Shallow Profiler,TN407_CTD-001,11,120,NUT-1338
+Axial Base Shallow Profiler,TN407_CTD-001,13,100,NUT-1336
+Axial Base Shallow Profiler,TN407_CTD-001,15,80,NUT-1334
+Axial Base Shallow Profiler,TN407_CTD-001,17,60,NUT-1335
+Axial Base Shallow Profiler,TN407_CTD-001,19,40,NUT-1332
+Axial Base Shallow Profiler,TN407_CTD-001,22,20,NUT-1333
+Axial Base Shallow Profiler,TN407_CTD-001,23,10,NUT-1329
+,,,,
+Slope Base Shallow Profiler,TN407_CTD-003,15,250,NUT-1331
+Slope Base Shallow Profiler,TN407_CTD-003,17,100,NUT-1330
+Slope Base Shallow Profiler,TN407_CTD-003,19,50,NUT-1337
+Slope Base Shallow Profiler,TN407_CTD-003,22,30,NUT-1321
+Slope Base Shallow Profiler,TN407_CTD-003,23,10,NUT-1322
+,,,,
+Oregon Offshore Shallow Profiler,TN407_CTD-004,11,250,NUT-1323
+Oregon Offshore Shallow Profiler,TN407_CTD-004,13,200,NUT-1327
+Oregon Offshore Shallow Profiler,TN407_CTD-004,15,150,NUT-1328
+Oregon Offshore Shallow Profiler,TN407_CTD-004,17,100,NUT-1324
+Oregon Offshore Shallow Profiler,TN407_CTD-004,19,50,NUT-1313
+Oregon Offshore Shallow Profiler,TN407_CTD-004,21,20,NUT-1325
+Oregon Offshore Shallow Profiler,TN407_CTD-004,23,10,NUT-1326
+,,,,
+Oregon Offshore Deep Profiler,TN407_CTD-005,11,250,NUT-1315
+Oregon Offshore Deep Profiler,TN407_CTD-005,13,200,NUT-1314
+Oregon Offshore Deep Profiler,TN407_CTD-005,15,150,NUT-1317
+Oregon Offshore Deep Profiler,TN407_CTD-005,17,100,NUT-1318
+Oregon Offshore Deep Profiler,TN407_CTD-005,19,50,NUT-1319
+Oregon Offshore Deep Profiler,TN407_CTD-005,21,20,NUT-1305
+Oregon Offshore Deep Profiler,TN407_CTD-005,23,10,NUT-1320
+,,,,
+Slope Base Deep Profiler,TN407_CTD-006,15,250,NUT-1306
+Slope Base Deep Profiler,TN407_CTD-006,17,100,NUT-1307
+Slope Base Deep Profiler,TN407_CTD-006,19,50,NUT-1308
+Slope Base Deep Profiler,TN407_CTD-006,21,30,NUT-1297
+Slope Base Deep Profiler,TN407_CTD-006,23,10,NUT-1298
+,,,,
+Axial Base Deep Profiler,TN407_CTD-007,15,250,NUT-1316
+Axial Base Deep Profiler,TN407_CTD-007,17,100,NUT-1309
+Axial Base Deep Profiler,TN407_CTD-007,19,50,NUT-1310
+Axial Base Deep Profiler,TN407_CTD-007,21,30,NUT-1311
+Axial Base Deep Profiler,TN407_CTD-007,23,10,NUT-1312
+,,,,
+Oregon Offshore Shallow Profiler,TN407_CTD-008,1,220,NUT-1304
+Oregon Offshore Shallow Profiler,TN407_CTD-008,3,200,NUT-1303
+Oregon Offshore Shallow Profiler,TN407_CTD-008,5,180,NUT-1302
+Oregon Offshore Shallow Profiler,TN407_CTD-008,7,160,NUT-1301
+Oregon Offshore Shallow Profiler,TN407_CTD-008,9,140,NUT-1300
+Oregon Offshore Shallow Profiler,TN407_CTD-008,11,120,NUT-1299
+Oregon Offshore Shallow Profiler,TN407_CTD-008,13,100,NUT-1296
+Oregon Offshore Shallow Profiler,TN407_CTD-008,15,80,NUT-1295
+Oregon Offshore Shallow Profiler,TN407_CTD-008,17,60,NUT-1294
+Oregon Offshore Shallow Profiler,TN407_CTD-008,19,40,NUT-1293
+Oregon Offshore Shallow Profiler,TN407_CTD-008,21,20,NUT-1292
+Oregon Offshore Shallow Profiler,TN407_CTD-008,23,10,NUT-1291
+,,,,
+Slope Base Shallow Profiler,TN407_CTD-009,1,220,NUT-1288
+Slope Base Shallow Profiler,TN407_CTD-009,3,200,NUT-1287
+Slope Base Shallow Profiler,TN407_CTD-009,5,180,NUT-1286
+Slope Base Shallow Profiler,TN407_CTD-009,7,160,NUT-1285
+Slope Base Shallow Profiler,TN407_CTD-009,9,140,NUT-1284
+Slope Base Shallow Profiler,TN407_CTD-009,11,120,NUT-1283
+Slope Base Shallow Profiler,TN407_CTD-009,13,100,NUT-1282
+Slope Base Shallow Profiler,TN407_CTD-009,15,80,NUT-1281
+Slope Base Shallow Profiler,TN407_CTD-009,17,60,NUT-1290
+Slope Base Shallow Profiler,TN407_CTD-009,19,40,NUT-1289
+Slope Base Shallow Profiler,TN407_CTD-009,21,20,NUT-1786
+Slope Base Shallow Profiler,TN407_CTD-009,23,10,NUT-1787

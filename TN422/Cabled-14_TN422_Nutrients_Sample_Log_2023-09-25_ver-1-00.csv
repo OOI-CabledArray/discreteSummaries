@@ -1,0 +1,68 @@
+Nutrient Analyses,,,,
+,,Units Required,uM,
+,,,,
+Customer and Data Recipient,Wendi Ruef,,,
+Email,wruef@uw.edu,,,
+Office,206-221-6760,,,
+,,,,
+Worktage,GR023225,Budget Contact,Laurie Bryan,
+PI,D. Kelley,,lbryan@ocean.washington.edu,
+,,,Office: 206-542-5279,
+Total Samples,,,,
+,,,,
+,,,,
+CTD Station,CTD ID,Niskin Bottle Number,Target Depth (m),Sample Bottle Number
+Oregon Offshore Shallow Profiler,TN422_CTD-001,1,220,NUT-4127
+Oregon Offshore Shallow Profiler,TN422_CTD-001,3,200,NUT-4126
+Oregon Offshore Shallow Profiler,TN422_CTD-001,5,180,NUT-4125
+Oregon Offshore Shallow Profiler,TN422_CTD-001,7,160,NUT-4124
+Oregon Offshore Shallow Profiler,TN422_CTD-001,9,140,NUT-4123
+Oregon Offshore Shallow Profiler,TN422_CTD-001,11,120,NUT-4122
+Oregon Offshore Shallow Profiler,TN422_CTD-001,13,100,NUT-4121
+Oregon Offshore Shallow Profiler,TN422_CTD-001,15,80,NUT-4120
+Oregon Offshore Shallow Profiler,TN422_CTD-001,17,60,NUT-4119
+Oregon Offshore Shallow Profiler,TN422_CTD-001,19,40,NUT-4118
+Oregon Offshore Shallow Profiler,TN422_CTD-001,21,20,NUT-4117
+Oregon Offshore Shallow Profiler,TN422_CTD-001,23,10,NUT-4116
+Slope Base Shallow Profiler,TN422_CTD-002,7,220,NUT-4115
+Slope Base Shallow Profiler,TN422_CTD-002,8,200,NUT-4111
+Slope Base Shallow Profiler,TN422_CTD-002,10,180,NUT-4110
+Slope Base Shallow Profiler,TN422_CTD-002,11,160,NUT-4109
+Slope Base Shallow Profiler,TN422_CTD-002,13,140,NUT-4108
+Slope Base Shallow Profiler,TN422_CTD-002,14,120,NUT-4114
+Slope Base Shallow Profiler,TN422_CTD-002,15,100,NUT-4107
+Slope Base Shallow Profiler,TN422_CTD-002,17,80,NUT-4113
+Slope Base Shallow Profiler,TN422_CTD-002,18,60,NUT-4106
+Slope Base Shallow Profiler,TN422_CTD-002,20,40,NUT-4105
+Slope Base Shallow Profiler,TN422_CTD-002,22,20,NUT-4104
+Slope Base Shallow Profiler,TN422_CTD-002,24,10,NUT-4112
+Axial Base Shallow Profiler,TN422_CTD-003,1,220,NUT-4071
+Axial Base Shallow Profiler,TN422_CTD-003,3,200,NUT-4079
+Axial Base Shallow Profiler,TN422_CTD-003,5,180,NUT-4087
+Axial Base Shallow Profiler,TN422_CTD-003,7,160,NUT-4095
+Axial Base Shallow Profiler,TN422_CTD-003,9,140,NUT-4094
+Axial Base Shallow Profiler,TN422_CTD-003,11,120,NUT-4093
+Axial Base Shallow Profiler,TN422_CTD-003,13,100,NUT-4092
+Axial Base Shallow Profiler,TN422_CTD-003,15,80,NUT-4091
+Axial Base Shallow Profiler,TN422_CTD-003,17,60,NUT-4090
+Axial Base Shallow Profiler,TN422_CTD-003,19,40,NUT-4089
+Axial Base Shallow Profiler,TN422_CTD-003,21,20,NUT-4088
+Axial Base Shallow Profiler,TN422_CTD-003,23,10,NUT-4086
+Oregon Offshore BEP,TN422_J2-1541,Forward Port,596,NUT-4103
+Axial Base Deep Profiler,TN422_CTD-004,15,250,NUT-4096
+Axial Base Deep Profiler,TN422_CTD-004,17,100,NUT-4097
+Axial Base Deep Profiler,TN422_CTD-004,19,50,NUT-4098
+Axial Base Deep Profiler,TN422_CTD-004,21,30,NUT-4099
+Axial Base Deep Profiler,TN422_CTD-004,23,10,NUT-4100
+Oregon Offshore Deep Profiler,TN422_CTD-005,1,570,NUT-4102
+Oregon Offshore Deep Profiler,TN422_CTD-005,3,550,NUT-4101
+Oregon Offshore Deep Profiler,TN422_CTD-005,5,500,NUT-4085
+Oregon Offshore Deep Profiler,TN422_CTD-005,7,450,NUT-4084
+Oregon Offshore Deep Profiler,TN422_CTD-005,9,400,NUT-4083
+Oregon Offshore Deep Profiler,TN422_CTD-005,11,350,NUT-4082
+Oregon Offshore Deep Profiler,TN422_CTD-005,13,325,NUT-4081
+Oregon Offshore Deep Profiler,TN422_CTD-005,15,300,NUT-4080
+Oregon Offshore Deep Profiler,TN422_CTD-005,17,275,NUT-4078
+Oregon Offshore Deep Profiler,TN422_CTD-005,19,250,NUT-4077
+Oregon Offshore Deep Profiler,TN422_CTD-005,21,225,NUT-4076
+Oregon Offshore Deep Profiler,TN422_CTD-005,23,200,NUT-4070

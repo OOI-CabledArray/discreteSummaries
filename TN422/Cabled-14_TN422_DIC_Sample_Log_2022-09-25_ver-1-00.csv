@@ -1,0 +1,72 @@
+DIC Analysis for pCO2 and TCO2,,,,,,
+,,,,,,
+,,,,,,
+Customer and Data Recipient,Wendi Ruef,,,,,
+Email,wruef@uw.edu,,,,,
+Office,206-221-6760,,,,,
+,,,,,,
+Worktage,GR023225,Budget Contact,Laurie Bryan,,,
+PI,D. Kelley,,lbryan@ocean.washington.edu,,,
+,,,Office: 206-542-5279,,,
+Total Samples,,,,,,
+,,,,,,
+,,,,,,
+CTD Station,CTD ID,Niskin Bottle Number,Target Depth (m),Sample Bottle Number,In-Situ Temperature (avg),In-Situ Salinity (avg)
+Oregon Offshore Shallow Profiler,TN422_CTD-001,1,220,DIC-152,7.3116,33.9712
+Oregon Offshore Shallow Profiler,TN422_CTD-001,3,200,DIC-172,7.4214,33.961
+Oregon Offshore Shallow Profiler,TN422_CTD-001,5,180,DIC-171,7.5816,33.9461
+Oregon Offshore Shallow Profiler,TN422_CTD-001,7,160,DIC-161,7.6304,33.9268
+Oregon Offshore Shallow Profiler,TN422_CTD-001,9,140,DIC-156,7.8341,33.8748
+Oregon Offshore Shallow Profiler,TN422_CTD-001,11,120,DIC-151,8.009,33.8427
+Oregon Offshore Shallow Profiler,TN422_CTD-001,13,100,DIC-157,8.2128,33.7455
+Oregon Offshore Shallow Profiler,TN422_CTD-001,15,80,DIC-153,8.4458,33.4892
+Oregon Offshore Shallow Profiler,TN422_CTD-001,17,60,DIC-101,8.9745,32.8799
+Oregon Offshore Shallow Profiler,TN422_CTD-001,19,40,DIC-165,9.3838,32.4357
+Oregon Offshore Shallow Profiler,TN422_CTD-001,21,20,DIC-155,11.0231,32.3671
+Oregon Offshore Shallow Profiler,TN422_CTD-001,23,10,DIC-160,15.6845,32.0716
+Slope Base Shallow Profiler,TN422_CTD-002,7,220,DIC-149,7.248,33.9881
+Slope Base Shallow Profiler,TN422_CTD-002,8,200,DIC-166,7.4029,33.9727
+Slope Base Shallow Profiler,TN422_CTD-002,10,180,DIC-159,7.4859,33.9465
+Slope Base Shallow Profiler,TN422_CTD-002,11,160,DIC-169,7.6093,33.924
+Slope Base Shallow Profiler,TN422_CTD-002,13,140,DIC-154,7.7747,33.8788
+Slope Base Shallow Profiler,TN422_CTD-002,14,120,DIC-158,7.8622,33.8344
+Slope Base Shallow Profiler,TN422_CTD-002,15,100,DIC-170,8.1031,33.7168
+Slope Base Shallow Profiler,TN422_CTD-002,17,80,DIC-163,8.3853,33.5977
+Slope Base Shallow Profiler,TN422_CTD-002,18,60,DIC-150,8.731,33.3909
+Slope Base Shallow Profiler,TN422_CTD-002,20,40,DIC-164,9.3017,33.0379
+Slope Base Shallow Profiler,TN422_CTD-002,22,20,DIC-167,14,32.7569
+Slope Base Shallow Profiler,TN422_CTD-002,24,10,DIC-168,18.5923,32.5944
+Oregon Shelf BEP,TN422_J2-1528,Aft Port,80,DIC-109,7.9369,33.76521417
+Oregon Shelf BEP,TN422_J2-1528,Aft Port,80,DIC-110,7.9369,33.76521417
+Axial Base Shallow Profiler,TN422_CTD-003,1,220,DIC-116,6.3528,33.8312
+Axial Base Shallow Profiler,TN422_CTD-003,2,220,DIC-107,6.3529,33.8311
+Axial Base Shallow Profiler,TN422_CTD-003,3,200,DIC-120,6.634,33.8109
+Axial Base Shallow Profiler,TN422_CTD-003,4,200,DIC-124,6.633,33.811
+Axial Base Shallow Profiler,TN422_CTD-003,5,180,DIC-122,6.9442,33.7751
+Axial Base Shallow Profiler,TN422_CTD-003,7,160,DIC-103,7.1773,33.695
+Axial Base Shallow Profiler,TN422_CTD-003,9,140,DIC-117,7.4396,33.5241
+Axial Base Shallow Profiler,TN422_CTD-003,11,120,DIC-114,7.4975,33.0454
+Axial Base Shallow Profiler,TN422_CTD-003,13,100,DIC-115,7.6939,32.69
+Axial Base Shallow Profiler,TN422_CTD-003,15,80,DIC-104,7.9971,32.3927
+Axial Base Shallow Profiler,TN422_CTD-003,17,60,DIC-119,8.5082,32.3599
+Axial Base Shallow Profiler,TN422_CTD-003,19,40,DIC-105,12.4054,32.3609
+Axial Base Shallow Profiler,TN422_CTD-003,21,20,DIC-162,18.0882,32.345
+Axial Base Shallow Profiler,TN422_CTD-003,23,10,DIC-106,18.0932,32.3455
+Oregon Offshore BEP,TN422_J2-1541,Aft Port,596,DIC-102,5.2485,34.11271667
+Axial Base Deep Profiler,TN422_CTD-004,15,250,DIC-108,5.874,33.8506
+Axial Base Deep Profiler,TN422_CTD-004,17,100,DIC-113,7.5511,32.6985
+Axial Base Deep Profiler,TN422_CTD-004,19,50,DIC-121,10.4823,32.364
+Axial Base Deep Profiler,TN422_CTD-004,21,30,DIC-118,18.4002,32.3599
+Axial Base Deep Profiler,TN422_CTD-004,23,10,DIC-145,18.4185,32.3611
+Oregon Offshore Deep Profiler,TN422_CTD-005,1,570,DIC-111,5.0592,34.1244
+Oregon Offshore Deep Profiler,TN422_CTD-005,3,550,DIC-123,5.2209,34.1116
+Oregon Offshore Deep Profiler,TN422_CTD-005,5,500,DIC-135,5.4792,34.0838
+Oregon Offshore Deep Profiler,TN422_CTD-005,7,450,DIC-141,5.6643,34.0482
+Oregon Offshore Deep Profiler,TN422_CTD-005,9,400,DIC-144,6.0316,34.0313
+Oregon Offshore Deep Profiler,TN422_CTD-005,11,350,DIC-133,6.4618,34.004
+Oregon Offshore Deep Profiler,TN422_CTD-005,13,325,DIC-126,6.7503,34.0002
+Oregon Offshore Deep Profiler,TN422_CTD-005,15,300,DIC-137,7.033,33.9789
+Oregon Offshore Deep Profiler,TN422_CTD-005,17,275,DIC-140,7.1912,33.9612
+Oregon Offshore Deep Profiler,TN422_CTD-005,19,250,DIC-128,7.3983,33.9605
+Oregon Offshore Deep Profiler,TN422_CTD-005,21,225,DIC-136,7.6063,33.9512
+Oregon Offshore Deep Profiler,TN422_CTD-005,23,200,DIC-129,7.7755,33.9301

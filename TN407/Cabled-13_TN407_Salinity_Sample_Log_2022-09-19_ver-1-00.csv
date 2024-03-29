@@ -1,0 +1,84 @@
+Salinity Analyses,,,,
+,,Units Required,salinity,
+,,,,
+Customer and Data Recipient,Wendi Ruef,,,
+Email,wruef@uw.edu,,,
+Office,206-221-6760,,,
+,,,,
+Budget,63-2089,Budget Contact,Laurie Bryan,
+PI,D. Kelley,,lbryan@ocean.washington.edu,
+,,,Office: 206-542-5279,
+Total Samples,51,,,
+,,,,
+,,,,
+CTD Station,CTD ID,Niskin Bottle Number,Target Depth (m),Sample Bottle Number
+,,,,
+Slope Base Junction Box LJ01A,2201_ctd_dive_export.csv,Aft Port,2900,SAL-121
+,,,,
+Axial Base Shallow Profiler,2204_ctd_dive_export.csv,Aft Port,198,SAL-122
+,,,,
+Axial Base Shallow Profiler,TN407_CTD-001,1,220,SAL-123
+Axial Base Shallow Profiler,TN407_CTD-001,7,160,SAL-124
+Axial Base Shallow Profiler,TN407_CTD-001,13,100,SAL-125
+Axial Base Shallow Profiler,TN407_CTD-001,17,60,SAL-126
+Axial Base Shallow Profiler,TN407_CTD-001,23,10,SAL-127
+,,,,
+Axial Central Caldera,2212_ctd_dive_export.csv,Aft Port,1526,SAL-128
+,,,,
+Axial Eastern Caldera,2215_ctd_dive_export.csv,Forward Port,1514,SAL-129
+,,,,
+Axial ASHS Vent Field,2217_ctd_dive_export.csv,Forward Port,1536,SAL-130
+,,,,
+Oregon Shelf BEP,2218_ctd_dive_export.csv,Aft Port,80,SAL-131
+,,,,
+Oregon Offshore BEP,2220_ctd_dive_export.csv,Aft Port,600,SAL-132
+,,,,
+Southern Hydrate Ridge,2224_ctd_dive_export.csv,Forward Port,773,SAL-133
+,,,,
+Southern Hydrate Ridge,TN407_CTD-002,1,770,SAL-134
+,,,,
+Slope Base Shallow Profiler,TN407_CTD-003,1,2900,SAL-135
+Slope Base Shallow Profiler,TN407_CTD-003,7,2000,SAL-136
+Slope Base Shallow Profiler,TN407_CTD-003,13,500,SAL-137
+Slope Base Shallow Profiler,TN407_CTD-003,17,100,SAL-138
+Slope Base Shallow Profiler,TN407_CTD-003,23,10,SAL-144
+,,,,
+Oregon Offshore Shallow Profiler,TN407_CTD-004,1,565,SAL-143
+Oregon Offshore Shallow Profiler,TN407_CTD-004,7,400,SAL-139
+Oregon Offshore Shallow Profiler,TN407_CTD-004,13,200,SAL-140
+Oregon Offshore Shallow Profiler,TN407_CTD-004,17,100,SAL-141
+Oregon Offshore Shallow Profiler,TN407_CTD-004,23,10,SAL-142
+,,,,
+Oregon Offshore Deep Profiler,TN407_CTD-005,1,578,SAL-025 
+Oregon Offshore Deep Profiler,TN407_CTD-005,7,400,SAL-026
+Oregon Offshore Deep Profiler,TN407_CTD-005,13,200,SAL-027
+Oregon Offshore Deep Profiler,TN407_CTD-005,17,100,SAL-028
+Oregon Offshore Deep Profiler,TN407_CTD-005,23,10,SAL-029
+,,,,
+Slope Base Deep Profiler,TN407_CTD-006,1,2895,SAL-030
+Slope Base Deep Profiler,TN407_CTD-006,7,2000,SAL-031
+Slope Base Deep Profiler,TN407_CTD-006,13,500,SAL-032
+Slope Base Deep Profiler,TN407_CTD-006,17,100,SAL-033
+Slope Base Deep Profiler,TN407_CTD-006,23,10,SAL-034
+,,,,
+Axial Base Deep Profiler,TN407_CTD-007,1,2600,SAL-036
+Axial Base Deep Profiler,TN407_CTD-007,7,2000,SAL-040
+Axial Base Deep Profiler,TN407_CTD-007,13,500,SAL-041
+Axial Base Deep Profiler,TN407_CTD-007,17,100,SAL-042
+Axial Base Deep Profiler,TN407_CTD-007,23,10,SAL-035
+,,,,
+Axial Base Junction Box LJ03A,2238_ctd_dive_export.csv,Aft Port,2604,SAL-039
+,,,,
+Axial Central Caldera,2242_ctd_dive_export.csv,Aft Port,1525,SAL-038
+,,,,
+Oregon Offshore Shallow Profiler,TN407_CTD-008,1,220,SAL-037
+Oregon Offshore Shallow Profiler,TN407_CTD-008,7,160,SAL-044
+Oregon Offshore Shallow Profiler,TN407_CTD-008,13,100,SAL-043
+Oregon Offshore Shallow Profiler,TN407_CTD-008,17,60,SAL-045
+Oregon Offshore Shallow Profiler,TN407_CTD-008,23,10,SAL-046
+,,,,
+Slope Base Shallow Profiler,TN407_CTD-009,1,220,SAL-5457
+Slope Base Shallow Profiler,TN407_CTD-009,7,160,SAL-5458
+Slope Base Shallow Profiler,TN407_CTD-009,13,100,SAL-5459
+Slope Base Shallow Profiler,TN407_CTD-009,17,60,SAL-5460
+Slope Base Shallow Profiler,TN407_CTD-009,23,10,SAL-5461
