@@ -1,0 +1,19 @@
+* Sea-Bird SBE 9 Data File:
+* FileName = C:\data\ctd\at50-29001.hdr
+* Software Version Seasave V 7.26.7.121
+* Temperature SN = 4312
+* Conductivity SN = 3521
+* Number of Bytes Per Scan = 40
+* Number of Voltage Words = 5
+* Number of Scans Averaged by the Deck Unit = 1
+* System UpLoad Time = Aug 09 2024 07:03:32
+* NMEA Latitude = 44 22.17 N
+* NMEA Longitude = 124 57.68 W
+* NMEA UTC (Time) = Aug 09 2024  07:03:31
+* Store Lat/Lon Data = Append to Every Scan
+** Ship: atlantis
+** Station: Endurance Offshore
+** Operator: JN
+** 500 m SW of shallow profiler
+* System UTC = Aug 09 2024 07:03:32
+*END*
